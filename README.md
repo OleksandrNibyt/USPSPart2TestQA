@@ -1,4 +1,4 @@
 # java-webdriver-cucumber
 
-Base framework for Java Webdriver automation with Cucumber
+Automated tests for USPS website using Page Object pattern.
 
