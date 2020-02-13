@@ -1,2 +1,4 @@
-# USPSPart2TestQA
-Implementing automated test cases using Page Object pattern.
+# java-webdriver-cucumber
+
+Base framework for Java Webdriver automation with Cucumber
+
